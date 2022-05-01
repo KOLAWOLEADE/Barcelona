@@ -37,3 +37,13 @@ h5{
 .col{
     color: black;
 }
+
+.logo{
+    padding: 10px;
+}
+
+.part{
+    padding: 10px;
+    color: blueviolet;
+    font-weight: bold;
+}
